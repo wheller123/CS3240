@@ -1,4 +1,4 @@
-#!/Users/glendonchin/Desktop/CS3240Classwork/Project/CS3240/myvenv/bin/python3.11
+#!/Users/glendonchin/Desktop/CS3240Classwork/Project/CS3240/myvenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
